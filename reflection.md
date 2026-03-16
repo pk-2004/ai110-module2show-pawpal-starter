@@ -7,6 +7,7 @@
 - Briefly describe your initial UML design.
 - What classes did you include, and what responsibilities did you assign to each?
 
+Owner has atleast one Pet. Each Pet has atleast one Task. Each day, the Owner has atleast one Task they have to complete for each of their pets.
 **b. Design changes**
 
 - Did your design change during implementation?
